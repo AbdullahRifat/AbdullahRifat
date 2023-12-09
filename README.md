@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rifat ,currently learning and working on MERN technlogies .   🚀</div>  
   
 
-
+![MERN Stack Developer](/assets/Blue%20White%20Futuristic%20Future%20Technology%20Banner.png)
   
 
 - 🌱 I’m currently learning MERN Technologies
