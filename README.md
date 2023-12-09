@@ -3,10 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+### <div align="center">I'm Abdullah Al Rifat currently working on MERN stack 🚀</div>  
+ 
   
 
 - 🌱 I’m currently learning MERN technologies 
