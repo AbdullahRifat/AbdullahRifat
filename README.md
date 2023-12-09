@@ -9,10 +9,8 @@
 ![MERN Stack Developer](./assets/banner.png)
   
 
-- 🌱 I’m currently learning MERN Technologies
+- 🌱 I’m currently learning MERN Technologies . I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js.
 - ❓  How to Reach Me "abdrifat69@gmail.com"
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
@@ -26,7 +24,8 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+### <div align="center">Technologies I am working with . </div>  
+  
 
 ### Frontend  
 <div align="center">  
