@@ -9,7 +9,8 @@
 
   
 
-- 🌱 I’m currently learning MERN Technologies 
+- 🌱 I’m currently learning MERN Technologies
+- ❓  How to Reach Me "abdrifat69@gmail.com"
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
