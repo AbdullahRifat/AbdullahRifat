@@ -81,7 +81,7 @@
 ##Projects
 
 <br/>  
-## project: Hotel-meal
+# project: Hotel-meal
 # live-link : https://auth-prac-373fe.web.app/
 
 ## Features
@@ -94,7 +94,7 @@
 
 
 
-## project: job-seeker
+# project: job-seeker
 # live-link : https://projects-ceec2.web.app
 
 ## Features
@@ -107,7 +107,7 @@
 
 
   
-## project: brand-shop
+# project: brand-shop
 # live-link : https://projects-ceec2.web.app
 
 ## Features
