@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rifat ,currently learning and working on MERN technlogies  🚀</div>  
+### <div align="center">I'm Rifat ,currently learning and working on MERN technlogies .   🚀</div>  
   
 
 
