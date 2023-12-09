@@ -61,14 +61,13 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="AbdullahRifat" target="_blank">
+## Connect with me  
+<a href="https://github.com/pronoyNath" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="abdullah-al-rifat-468a2329b" target="_blank">
+<a href="https://linkedin.com/in/www.linkedin.com/in/anthokhiyanath" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
   
 
 <br/>  
