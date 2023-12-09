@@ -78,8 +78,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbdullahRifat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-###Projects
-*All My Latest Projects 
+## Projects
+All My Latest Projects 
 
 <br/>  
 # project: Hotel-meal
