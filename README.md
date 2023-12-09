@@ -93,6 +93,7 @@ All My Latest Projects
 * only jwt token verified admin can  update meals o
 * added monogodb server to get track of the Meal
 * top liked and reviewed food are updated
+* Technologies: React.js,express.js,Mongodb,Daisy UI,Tailwind
 
 
 
@@ -106,7 +107,7 @@ All My Latest Projects
 * only jwt token verified users can  update Job who has posted the job
 * added monogodb server to get track of the products
 * top Hisghest paid salaray jobs are High lited
-
+* Technologies: React.js,express.js,Mongodb,Daisy UI,Tailwind
 
 
   
@@ -119,6 +120,7 @@ All My Latest Projects
 * added monogodb server to get track of the products
 * top rated products are shown in the home page
 * best deals options are shown in the homepage
+* Technologies: React.js,express.js,Mongodb,Daisy UI,Tailwind
 
 
 
