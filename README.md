@@ -78,12 +78,48 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbdullahRifat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+##Projects
+## project: Hotel-meal
+# live-link : https://auth-prac-373fe.web.app/
+
+## Features
+* user see meals 
+* only premium users can order meal 
+* only jwt token verified admin can  update meals o
+* added monogodb server to get track of the Meal
+* top liked and reviewed food are updated
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
+
+## project: job-seeker
+# live-link : https://projects-ceec2.web.app
+
+## Features
+* user can add Jobs 
+* only verified users can see details 
+* only jwt token verified users can  update Job who has posted the job
+* added monogodb server to get track of the products
+* top Hisghest paid salaray jobs are High lited
+
+
+
+  
+## project: brand-shop
+# live-link : https://projects-ceec2.web.app
+
+## Features
+* user can add produts to cart
+* only verified users can see details and update products
+* added monogodb server to get track of the products
+* top rated products are shown in the home page
+* best deals options are shown in the homepage
+
+
+
+
+
+
 
 <br/>  
 
