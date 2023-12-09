@@ -84,8 +84,12 @@
 All My Latest Projects 
 
 <br/>  
+
+
 # project: Hotel-meal
 # live-link : https://auth-prac-373fe.web.app/
+# client-repo-link : https://github.com/AbdullahRifat/Hotel-Meal
+# server-repo-link : https://github.com/AbdullahRifat/Hotelmeal-server.git
 
 ## Features
 * user see meals 
@@ -95,11 +99,13 @@ All My Latest Projects
 * top liked and reviewed food are updated
 * Technologies: React.js,express.js,Mongodb,Daisy UI,Tailwind
 
-
+<br/>  
 
 
 # project: job-seeker
 # live-link : https://projects-ceec2.web.app
+# client-repo-link : https://github.com/AbdullahRifat/JOB-FInder
+# server-repo-link : https://github.com/AbdullahRifat/Job-finder-server
 
 ## Features
 * user can add Jobs 
@@ -109,10 +115,12 @@ All My Latest Projects
 * top Hisghest paid salaray jobs are High lited
 * Technologies: React.js,express.js,Mongodb,Daisy UI,Tailwind
 
-
+<br/>  
   
 # project: brand-shop
 # live-link : https://projects-ceec2.web.app
+# client-repo-link :https://github.com/AbdullahRifat/Brand-Shop-Client
+# server-repo-link : https://github.com/AbdullahRifat/Brand-shop-server
 
 ## Features
 * user can add produts to cart
@@ -141,14 +149,4 @@ All My Latest Projects
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
