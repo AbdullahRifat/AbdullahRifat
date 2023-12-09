@@ -77,7 +77,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbdullahRifat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<div style="display:flex; justify-content: between; gap:10px;  align-items: center;">
+<div style="display:flex; justify-content: between; gap:10px;  align-items: center; margin:auto">
 <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahRifat&theme=windows-dark&hide_border=true" alt="GitHub Streak" /></a>
 <br/>
 
