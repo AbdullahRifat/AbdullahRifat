@@ -3,13 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Rifat ,currently learning and working on MERN technlogies .   🚀</div>  
   
 
 ![MERN Stack Developer](./assets/banner.png)
+
+### <div align="center">I'm Rifat ,currently learning and working on MERN technlogies .   🚀</div>  
   
 
-- 🌱 I’m currently learning MERN Technologies . I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js.
+- 🌱 I’m currently learning MERN Technologies . I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js. I am looking forward to master backend and database technologies in future .
 - ❓  How to Reach Me "abdrifat69@gmail.com"
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
@@ -18,8 +19,7 @@
   
 
 <br/>  
-<div style="display:flex; justify-content: between; gap:10px;  align-items: center;">
-<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahRifat&theme=windows-dark&hide_border=true" alt="GitHub Streak" /></a>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -77,6 +77,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbdullahRifat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<div style="display:flex; justify-content: between; gap:10px;  align-items: center;">
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahRifat&theme=windows-dark&hide_border=true" alt="GitHub Streak" /></a>
+<br/>
 
 
 # Projects
